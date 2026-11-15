@@ -3,7 +3,6 @@ my first repository
 
 My Favorite Movie
 Avengers: Endgame
-![Marvel Logo](https://upload.wikimedia.org/wikipediaarvel_Logo.svg
 
 About the Movie
 Avengers: Endgame is one of my favorite movies because it has an exciting story, great action scenes, and emotional moments.
